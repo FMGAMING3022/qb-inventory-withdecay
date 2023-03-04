@@ -15,16 +15,19 @@
 
 
 # Previews
-Full Inventory
+- Full Inventory
 ![image](https://media.discordapp.net/attachments/1056268642469298276/1081669629690257559/image.png?width=1301&height=676)
 
-Hotbar Slots
+- Hotbar Slots
 ![image](https://media.discordapp.net/attachments/1056268642469298276/1081669715669291108/image.png)
 
-Inventory Uses
+- Inventory Uses
 ![image](https://media.discordapp.net/attachments/1056268642469298276/1081669831209783366/image.png)
 
 
 # Credits
 * loljoshie for [original version](https://github.com/loljoshie/lj-inventory)
 
+## Join With Us
+- [Discord](https://discord.gg/NbpHD9RaSJ)
+- [Tebex](https://kael.tebex.io/)
