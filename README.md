@@ -24,10 +24,10 @@
 - Inventory Uses
 ![image](https://media.discordapp.net/attachments/1056268642469298276/1081669831209783366/image.png)
 
-
-# Credits
-* loljoshie for [original version](https://github.com/loljoshie/lj-inventory)
-
 ## Join With Us
 - [Discord](https://discord.gg/NbpHD9RaSJ)
 - [Tebex](https://kael.tebex.io/)
+
+
+# Credits
+* loljoshie for [original version](https://github.com/loljoshie/lj-inventory)
