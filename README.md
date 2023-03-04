@@ -29,5 +29,5 @@
 - [Tebex](https://kael.tebex.io/)
 
 
-# Credits
-* loljoshie for [original version](https://github.com/loljoshie/lj-inventory)
+# Orginal Version
+* [loljoshie](https://github.com/loljoshie/lj-inventory)
