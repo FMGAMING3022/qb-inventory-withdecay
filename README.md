@@ -1,4 +1,4 @@
-# Join my Discord for updates, support, and special early testing! [discord](https://discord.gg/NbpHD9RaSJ)
+# Join my Discord for updates, support! [discord](https://discord.gg/NbpHD9RaSJ)
 
 # Dependencies
 * [qbcore framework](https://github.com/qbcore-framework)
